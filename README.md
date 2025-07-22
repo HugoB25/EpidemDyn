@@ -1,4 +1,4 @@
-# EpidemDyn
+# EpidemDynOtm
 This is final papper repository with the python code used to generate the results.  
 
 **THIS IS NOT A FINAL VERSION OF THE REPOSITORY.**
