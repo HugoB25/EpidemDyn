@@ -1,7 +1,7 @@
 # EpidemDyn
 This is final papper repository with the python code to generate the results.  
 
-**THIS IS NOT A FINAL VERSION OF THE REPOSITORY. **
+**THIS IS NOT A FINAL VERSION OF THE REPOSITORY.**
 
 ## Abstract
 This work presents a mathematical and computational approach for modeling and parameter
@@ -18,7 +18,7 @@ SI, SIR, SEIR, and SIRD _ _.final_ _, are the final codes to fitting the paramet
 SI, SIR, SEIR, and SIRD _ _.conv_ _, are the codes with the convergence plots.
 
 
-**THIS IS NOT A FINAL VERSION OF THE REPOSITORY. **
+**THIS IS NOT A FINAL VERSION OF THE REPOSITORY.**
 
 
 
